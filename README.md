@@ -5,9 +5,9 @@ AI/ML Engineer passionate about building intelligent systems that connect vision
 ---
 
 ## 🤖 LLMs & Agentic AI
+- [Web RAG Copilot](https://github.com/amir-khosravi/web-rag-copilot) - Multi-agent Web RAG system using Llama 3 via Groq, LangGraph orchestration, Tavily search, and AWS Fargate CI/CD.
 - [TubeWise](https://github.com/amir-khosravi/TubeWise) – YouTube content assistant built with LangChain & TypeScript  
 - [ComplianceCore](https://github.com/amir-khosravi/ComplianceCore) – Python-based LLM pipeline for compliance automation 
-- [Web RAG Copilot](https://github.com/amir-khosravi/web-rag-copilot) - Multi-agent Web RAG system using Llama 3 via Groq, LangGraph orchestration, Tavily search, and AWS Fargate CI/CD.
 
 ---
 
